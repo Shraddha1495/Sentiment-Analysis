@@ -22,6 +22,7 @@ Python 3.10.2
 To run this project, the following libraries should be installed and imported successfully
 
 pip install numpy
+
 pip install pandas
 
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
